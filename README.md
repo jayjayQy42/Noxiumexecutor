@@ -19,39 +19,20 @@ Regular updates to ensure Noxium stays compatible with Roblox updates and adds n
 ⚙️ How to Use Noxium Executor
 Download and Install
 
-Download the latest version of Noxium from the official website or trusted sources.
-Run the installer and follow the on-screen instructions.
-Open Roblox
+Download the latest version of Noxium from the official website or trusted sources.(and this github  page)
+make sure you have antivirus completely off since it will delete all neccesary files! and download visual res 2019 then open the noxium boostrapper if it doesnt open run as admin!.
+Open roblox from web version(v12.32) or bloxtrap
 
-Launch Roblox and open the game you want to inject scripts into.
-Launch Noxium
+Launch Roblox Cick the inject button right beneath the interface then it will say injected and how many unc it has then done find scripts and have fun!
+execute scripts
 
-Open the Noxium Executor.
-Drag your scripts into the executor, or paste your Lua script directly into the text box.
-Execute Scripts
-
-Hit the “Execute” button to run your scripts in Roblox. Enjoy the enhanced features and mods!
 💡 Cool Functions in Noxium
-- Speed Hack
-Move faster than other players with the Speed Hack function, whether you’re racing through an obby or simply exploring a game world.
-
-- Fly Mode
-Glide through Roblox games using the Fly Mode feature, perfect for exploring hidden areas or avoiding enemies.
-
-- Customizable Hotkeys
-Configure hotkeys for quick access to your most used functions (e.g., teleport, fly, speed boost, etc.) during gameplay.
-
-- Infinite Jump
-Jump as high as you want without touching the ground. Great for exploration and showing off your skills!
-
-- Teleportation
-Instantly move between locations within the game world with the Teleportation tool. No more running across massive maps.
-
-- No Clip
-Go through walls and objects with No Clip mode for ultimate freedom in-game.
-
-- Aimbot & ESP
-Aim with precision and get an edge over other players with the built-in Aimbot and ESP features (works in supported games).
+fully undetectable  
+sigma ui really
+slick website
+just the best
+if a script is dangerous it cannot harm the pc in any way
++ more features
 
 🛠️ Support & Troubleshooting
 FAQ: Check out the frequently asked questions section on our official website for common issues and their fixes.
